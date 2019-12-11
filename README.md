@@ -24,4 +24,5 @@
 - Yargs
 - Funciones con arreglos
 - JSON
-- Refactor de condigo
+- Refactor de codigo
+- Estructura de carpetas
